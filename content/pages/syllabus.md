@@ -14,13 +14,66 @@ Course Overview
 
 ### Grading
 
-| Activities | Percentages |
-| --- | --- |
-| Class Participation | 25% |
-| Course Reflection Papers (2 @ 10%) | 20% |
-| Group Assignment | 30% |
-| Personal Report on Group Assignment | 10% |
-| Final Reflection Paper | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Course Reflection Papers (2 @ 10%)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Personal Report on Group Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Reflection Paper
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Purpose
 
